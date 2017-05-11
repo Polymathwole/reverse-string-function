@@ -1,0 +1,22 @@
+{
+  "name": "reverse-string-function",
+  "version": "1.0.0",
+  "description": "A function that reverses input string",
+  "main": "rev.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polymathwole/reverse-string-function.git"
+  },
+  "author": "Oluwaremi Oluwole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polymathwole/reverse-string-function/issues"
+  },
+  "homepage": "https://github.com/Polymathwole/reverse-string-function#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
